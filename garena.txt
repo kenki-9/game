@@ -13,3 +13,8 @@ lolvn.aws.gpipe.garenanow.com
 pft-garena-prod.rdatasrv.net
 prodvn1.lol.garenanow.com
 udp.gxx.garenanow.com
+connect.gxx.garenanow.com
+avatar.garenanow.com
+cf.gxx.garenanow.com
+appinfo.garenanow.com
+lolvn.cdn.gpipe.garenanow.com
