@@ -704,7 +704,6 @@ bigfishthemes-a.akamaihd.net
 bigfishassets-a.akamaihd.net	
 bigfishgames.com	
 Exact blacklist
-Default
 www.bigfishgames.com	
 assets.adobedtm.com	
 metrics-fe-na1.hubspot.com
