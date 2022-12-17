@@ -1,3 +1,14 @@
+cdn.zingplay.com
+portal-sea-cdn.zingplay.com
+portal-sea.service.zingplay.com
+portal2.zingplay.com
+trackingvn.zingplay.com
+cotiphu.static.g6.zing.vn
+zplogin.g6.zing.vn
+zingplay.static.g6.zing.vn
+ica-partner-new.service.zingplay.com
+cdn-icah5-vn.zingplay.com
+login.zingplay.com
 zingplay.com
 www.zingplay.com
 play.zing.vn
