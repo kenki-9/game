@@ -1463,3 +1463,14 @@ web616.chi1.roblox.com
 locale.roblox.com
 inventory.roblox.com
 careers.roblox.com
+static.rbxcdn.com
+css.rbxcdn.com
+js.rbxcdn.com
+aws-ap-east-1b-lms.rbx.com
+setup-hw.rbxcdn.com
+setup-cfly.rbxcdn.com
+setup-ll.rbxcdn.com
+setup-ak.rbxcdn.com
+setup.rbxcdn.com
+clientsettingscdn.roblox.qq.com
+setup.rbxcdn.qq.com
